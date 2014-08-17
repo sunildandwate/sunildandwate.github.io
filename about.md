@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[sunildandvate7@gmil.com](mailto:sunildandvate7@gmil.com)
+[sunildandvate7@gmail.com](mailto:sunildandvate7@gmail.com)
